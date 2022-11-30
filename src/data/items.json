@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Side Board",
+    "price": 70.99,
+    "imgUrl": "/imgs/board.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Canvas Poster",
+    "price": 105,
+    "imgUrl": "/imgs/poster.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Vase Set",
+    "price": 84.4,
+    "imgUrl": "/imgs/vase.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Danish Chair",
+    "price": 300,
+    "imgUrl": "/imgs/chair.jpg"
+  }
+]
