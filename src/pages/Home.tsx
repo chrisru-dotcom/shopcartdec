@@ -15,7 +15,7 @@ export function Home() {
       <Card className="h-100">
         <Card.Img
           variant="top"
-          src={"./public/imgs/store.jpg"}
+          src={"/imgs/store.jpg"}
           height="375px"
           style={{ objectFit: "cover" }}
         />
